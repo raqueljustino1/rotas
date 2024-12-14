@@ -1,0 +1,16 @@
+{
+  "name": "rotas--aula-javascript",
+  "version": "1.0.0",
+  "description": "exemplo de rotas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raquel",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "keywords": []
+}
